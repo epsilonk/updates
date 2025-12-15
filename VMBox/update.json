@@ -1,7 +1,0 @@
-{
-  "version": "1.0.0",
-  "DAT": "http://epsilonk.github.io/updates/VMBox/Firmware/DAT_DFBVMBox_1.0.0_20251215103033.bin",
-  "INI": "http://epsilonk.github.io/updates/VMBox/Firmware/INI_DFBVMBox_1.0.0_20251215103033.bin",
-  "CONF": "http://epsilonk.github.io/updates/VMBox/Firmware/iapconf.ini",
-  "notes": "Bug fixes and performance improvements."
-}
