@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "DAT": "http://epsilonk.github.io/updates/VMBox/Firmware/DAT_DFBVMBox_2.0.0_20251216163844.bin",
   "INI": "http://epsilonk.github.io/updates/VMBox/Firmware/INI_DFBVMBox_2.0.0_20251216163844.bin",
   "CONF": "http://epsilonk.github.io/updates/VMBox/Firmware/iapconf.ini",
